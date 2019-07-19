@@ -10,6 +10,14 @@ NetBSD major version, y -- NetBSD minor version, z -- NetBSD patch
 level, and n -- nbase release number. For example, 7.0.0.4 means
 fourth release of nbase that corresponds to NetBSD 7.0-RELEASE.
 
+My particular intention is provide the main of a already-portable-Unix
+utilities to any *nix-like operating systems. Then you can create your
+own OS with authentic Unix utilities.
+
+Hopefully you can replace GNU coreutils with better and well-written,
+easy to study, maintain and use *nix-like core utilities.
+
+
 Additional documentation is under doc/
 [subdirectory](https://github.com/cheusov/nbase/tree/master/doc).
 
